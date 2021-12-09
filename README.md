@@ -13,7 +13,7 @@
 <!-- <img width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif"> -->
 </p>
 
-<!-- <p align="center">
+<p align="center">
     Hi, I'm Nguyen Quang Hieu,
   <br>
   <br>
@@ -32,8 +32,7 @@
     📫 How to reach me: <a href="mailto: quanghieu10hd@gmail.com">quanghieu10hd@gmail.com</a>
   <br>
     ⚡ Fun fact: coldly😋!!!
-</p>
- -->
+</p
 
 <hr>
 
