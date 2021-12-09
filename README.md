@@ -21,7 +21,7 @@
   <br>
     🤔 I’m looking for helping with studying
   <br>
-    😄 Pronouns: Goob boy 💖!!!
+    😄 Pronouns: Sad boy 💖!!!
   <br>
     🏡 Home addres: Ha Noi.
   <br>
